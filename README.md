@@ -2,10 +2,15 @@
 # **Weather App in Java**
 
 **Company**: CODETECH IT SOLUTIONS
+
 **Name**: SAISRI DASARI
+
 **Intern ID**: CT04DK210
+
 **Domain**: JAVA DEVELOPER
+
 **Duration**: 4 WEEKS
+
 **Mentor**: NEELA SANTOSH
 
 ---
