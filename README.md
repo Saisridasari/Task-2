@@ -59,3 +59,4 @@ The city name can be dynamically set, and the weather data is retrieved in **met
 
 ### 📷 **Output Screenshot**
 
+![WhatsApp Image 2025-05-14 at 22 46 11_569777bd](https://github.com/user-attachments/assets/797a812a-20d3-4bcf-bd2b-ad7492746ca2)
